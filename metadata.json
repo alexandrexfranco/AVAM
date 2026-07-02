@@ -1,0 +1,8 @@
+{
+  "name": "Avaliação de Motorista",
+  "description": "Sistema offline para avaliação prática de motoristas (FOR REH 017).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
